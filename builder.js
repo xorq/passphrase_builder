@@ -40,7 +40,7 @@ var sentence = function sentence(structure){
 }
  
 var s = new sentence([ 
-	adv, adj, noun, adv, verb , adj, noun
+	adj, noun, adv, verb , adj, noun
 	]);
 
 console.log(
